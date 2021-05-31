@@ -1,4 +1,3 @@
-baseURL = "https://netlify-test-123.netlify.app/"
 languageCode = "en-us"
 title = "Github Actions Hugo Site"
 theme = "npq"
